@@ -1,3 +1,4 @@
+# Following a tutotrial by: 'Programming with Mosh' on YT.
 import random
 while True:
     choice = input("Would like you like to roll the dice? (y/n): ").lower()
